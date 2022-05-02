@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class GreetingViewController: UIViewController {
 
     @IBOutlet weak var greetingLabel: UILabel!
     
